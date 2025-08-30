@@ -1,0 +1,6 @@
+dataset/
+output/
+tests/
+.env
+__pycache__/
+.idea/

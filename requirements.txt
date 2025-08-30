@@ -1,0 +1,8 @@
+torch
+torchvision
+requests
+Pillow
+python-dotenv
+playwright
+opencv-python
+numpy
